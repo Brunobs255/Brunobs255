@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brunobs255&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Brunobs255&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Brunobs255/Brunobs255/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
